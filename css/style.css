@@ -98,14 +98,14 @@
   }
   
   .showcase-content h1 {
-    font-weight: 700;
-    font-size: 5.2rem;
+    font-weight: 900;
+    font-size: 3.1rem;
     line-height: 1.1;
     margin: 0 0 2rem;
   }
   
   .showcase-content p {
-    text-transform: uppercase;
+    text-transform: capitalize;
     color: #fff;
     font-weight: 400;
     font-size: 1.9rem;
